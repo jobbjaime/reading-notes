@@ -8,6 +8,6 @@ Soy administrador de empresa de profesion, tengo 36 años y vivo en Lince.
 * [Mi Linkedin](https://www.linkedin.com/in/jaimecastromarchan/)
 * [Mi Github](https://github.com/jobbjaime)
 
-##Mis notas de lectura:
+## Mis notas de lectura:
 
 - [Mi enlace a mi archivo mindset](https://github.com/jobbjaime/reading-notes/blob/main/mindset.md)
