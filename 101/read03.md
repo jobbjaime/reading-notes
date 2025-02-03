@@ -36,3 +36,46 @@ p {
 }
 ```
 Esta regla de CSS se puede usar en cualquier archivo CSS ya sea de manera externa, interna o en línea.
+
+# READ 03: Introducción a CSS
+
+## Reflexiona y debate
+
+A continuación se muestra una colección de recursos que describen los temas de la clase.
+
+Revisa estos recursos y agrega una nueva entrada a este foro que resuma los temas que aprendiste como si estuvieras presentando el material a un amigo (sin conocimientos técnicos) interesado en aprender sobre esto.
+
+## Lectura
+
+La lectura de este artículo es obligatoria.
+
+- **Qué es CSS**
+
+## Practica
+
+- **Cómo insertar CSS**
+
+## Recursos Extra
+
+- [Referencia CSS](https://developer.mozilla.org/es/docs/Web/CSS/Reference)
+- [Myers Web Reset Stylesheet](https://meyerweb.com/eric/tools/css/reset/) (Conversa sobre este artículo con tus instructores).
+
+## Responde
+
+1. **¿Cuál es el propósito de CSS?**
+   - El propósito de CSS (Cascading Style Sheets) es controlar la presentación y el diseño de una página web. Permite definir estilos como colores, fuentes, márgenes, tamaños y posiciones, separando así el contenido (HTML) de su apariencia visual.
+
+2. **¿Qué analogía NO técnica usarías para explicar la responsabilidad de HTML vs. CSS?**
+   - Una analogía no técnica sería comparar HTML con la estructura de una casa (paredes, techos, puertas) y CSS con la decoración y el estilo de la casa (colores de las paredes, muebles, iluminación). HTML define "qué hay" y CSS define "cómo se ve".
+
+3. **¿Cuáles son las tres formas de insertar CSS en tu proyecto?**
+   - Las tres formas de insertar CSS son:
+     1. **CSS interno**: Usando la etiqueta `<style>` dentro del `<head>` del documento HTML.
+     2. **CSS externo**: Enlazando un archivo CSS externo usando la etiqueta `<link>` en el `<head>` del documento HTML.
+     3. **CSS en línea**: Aplicando estilos directamente en un elemento HTML usando el atributo `style`.
+
+4. **Escribe un ejemplo de una regla CSS que daría texto rojo a todos los elementos `<p>`.**
+   ```css
+   p {
+       color: red;
+   }
