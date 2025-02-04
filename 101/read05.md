@@ -42,4 +42,3 @@ La lectura de este artículo es obligatoria.
    - Guion: `-`  
    - Asterisco: `*`  
    - Signo más: `+`  
-   Ejemplo:  
